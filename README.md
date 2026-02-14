@@ -42,6 +42,7 @@ Target classes:
 * Virginica
 
 The dataset is perfectly balanced across all three species.
+<img width="562" height="455" alt="output 1 IRIS" src="https://github.com/user-attachments/assets/3caa0bb1-4f47-4718-aab1-91f2db755c24" />
 
 ---
 
@@ -79,6 +80,7 @@ Each species appears exactly 50 times.
 ---
 
 ## 📦 Feature Spread & Outlier Detection
+<img width="658" height="528" alt="IRIS 2" src="https://github.com/user-attachments/assets/06fb75cf-3e4c-43a0-8d96-148e4153f3ec" />
 
 Boxplots revealed:
 
