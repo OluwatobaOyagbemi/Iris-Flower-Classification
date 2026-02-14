@@ -1,3 +1,4 @@
+<img width="637" height="528" alt="IRIS 3" src="https://github.com/user-attachments/assets/83983587-41bd-425d-9f59-10fdcc89185a" />
 # Iris-Flower-Classification
 
 
