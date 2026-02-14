@@ -1,6 +1,5 @@
 # Iris-Flower-Classification
-Predictive Modelling of a Dataset
-Understood. Below is your **refined README summary** with the **Feature Importance visualization section completely removed**, while keeping the explanation of feature importance (since you did compute it in your notebook). The flow remains clean, visual, and fully aligned with your file.
+
 
 ---
 
@@ -159,12 +158,6 @@ This project demonstrates how disciplined data inspection, visualization, and mo
 
 By understanding feature relationships before training the model, the classification outcome becomes both predictable and explainable.
 
----
 
-If you would like, I can now:
-
-* Make this more minimal and executive-style
-* Make it more visually bold for GitHub
-* Or refine it into a portfolio-optimized showcase version
 
 Tell me the direction you prefer.
